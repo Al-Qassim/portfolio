@@ -143,8 +143,8 @@ function App() {
 			{/* Home */}
 			<div id='Home' className={style.home}>
 				<div className={style["home-content"]}>
-					<h1>HEY, I'M Alqassim Ali</h1>
-					<p>A Full Stack Web Developer, building Web Applications that leads to the success of the overall product</p>
+					<h1>HI! I'M Alqassim Ali</h1>
+					<p>A Full Stack Web Developer building Web Applications that leads to the success of the overall product</p>
 					<a
 						href={cv}
 						download="cv-PDF-document"
