@@ -178,10 +178,10 @@ function App() {
 			<div id='About' className={style.about}>
 				<div className={style.container}>
 					<h2 className={style.title}>About Me</h2>
-					<p>Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology</p>
+					{/* <p>Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology</p> */}
 					<div className={style["about-content"]}>
 						<div className={style["about-info"]}>
-							<h3>Get to know me!</h3>
+							{/* <h3>Get to know me!</h3> */}
 							<p>
 								I'm a <span>Full Stack Web Developer</span> building the Back-end and Front-end of Web Applications that leads to the success of the overall product. Check out some of my work in the <span>Projects</span> section. <br /> <br />
 
