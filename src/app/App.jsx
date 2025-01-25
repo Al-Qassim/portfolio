@@ -256,7 +256,14 @@ function App() {
 			<div id='Contact' className={style.contact}>
 				<div className={style.container}>
 					<h2 className={style.title}>Contact</h2>
-					<p>Feel free to Contact me by submitting the form below and I will get back to you as soon as possible</p>
+					<p>
+						Phone: (+964) 770 909 9984
+						<br></br>
+						Email: qassimali624@gmail.com
+						<br></br>
+						<br></br>
+						Feel free to Contact me by submitting the form below and I will get back to you as soon as possible
+					</p>
 					<form
 						ref={form} onSubmit={sendEmail}
 						className={
@@ -326,6 +333,9 @@ function App() {
 								</a>
 							</div>
 						</div>
+					</div>
+					<div className={style["copy-right"]}>
+						© Copyright 2023. portfolio template was made by <span>Ibrahim Hiarea</span>
 					</div>
 				</div>
 			</div>
